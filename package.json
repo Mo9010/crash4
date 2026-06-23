@@ -4,7 +4,7 @@
 "description": "A telegram bot to crash whatsapp user",
 "main": "index.js",
 "scripts": {
-"start": "node --max-old-space-size=8192 start.js"},
+"start": "node --max-old-space-size=8192 index.js"},
 "keywords": [
 "telegram",
 "xeon-telegram-bot",
